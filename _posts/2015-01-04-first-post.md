@@ -16,6 +16,7 @@ This is more normal text.
 
 /code 
 
-[import numpy as np]
+[import numpy as np]/br
+
 [import matplotlib.pyplot as plt]
 
