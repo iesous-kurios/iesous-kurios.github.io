@@ -2,7 +2,7 @@
 layout: post
 title: First post!
 image: /img/hello_world.jpeg
-published: true
+published: false
 ---
 
 Testing functionality.
@@ -19,4 +19,10 @@ This is more normal text.
 [import numpy as np]/br
 
 [import matplotlib.pyplot as plt]
+
+    this is test code
+    import numpy as np
+    import matplotlib.pyplot as plt
+    
+    
 
