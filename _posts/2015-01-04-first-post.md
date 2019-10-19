@@ -2,7 +2,7 @@
 layout: post
 title: First post!
 image: /img/hello_world.jpeg
-published: false
+published: true
 ---
 
 Testing functionality.
