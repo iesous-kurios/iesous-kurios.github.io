@@ -11,10 +11,11 @@ Testing functionality.
 
 This is more normal text.
 
-```python
+{% highlight python linenos %}
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
-```
+{% endhighlight %}
+
 
 end of test
