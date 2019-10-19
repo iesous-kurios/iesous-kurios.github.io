@@ -4,7 +4,7 @@
 title: My website
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: My Ventures in Data Science
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -28,7 +28,7 @@ navbar-links:
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/avatar-icon.png"
+avatar: "https://static.wixstatic.com/media/b6eeb8_92562f6b48ff498daf9c7d3d23b4ccc5~mv2.jpg/v1/fill/w_256,h_256/e83317de-abc9-4501-b509-d217620b3362.jpg"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
